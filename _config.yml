@@ -1,0 +1,15 @@
+# Site settings
+title: Veggie Puppy
+email: webmaster@veggypuppy.com
+description: > # this means to ignore newlines until "baseurl:"
+  Awesome cruelty-free recipes, beauty products, clothes, and more. 
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://veggiepuppy.com" # the base hostname & protocol for your site
+twitter_username: veggie_puppy
+pinterest_username: veggie_puppy
+instagram_username: veggie_puppy
+sass:
+    sass_dir: _sass
+
+# Build settings
+markdown: kramdown
