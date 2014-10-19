@@ -15,7 +15,7 @@ This is a creamy and hearty soup, full of earthy mushroom flavor. The combinatio
 - 16 oz fresh cremini mushrooms
 - 3 tablespoons vegan butter 
 - 8 oz almond or soy milk unsweetened (really really not 'original')
-- 1 tablespoon 'no beef' better than bouillon 
+- 1 tablespoon ['no beef' better than bouillon](http://www.amazon.com/gp/product/B004W9SLPQ/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004W9SLPQ&linkCode=as2&tag=veggpupp-20&linkId=ACU5ZUVDI6MUVVH2">Better Than Bouillon Vegetarian No Beef Base -- 8 oz</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=veggpupp-20&l=as2&o=1&a=B004W9SLPQ)
 - 8 oz of hot water 
 - 1 medium onion, chopped
 - 1 clove of garlic, finely chopped or pressed
