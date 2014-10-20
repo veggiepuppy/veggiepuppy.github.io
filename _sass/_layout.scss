@@ -99,6 +99,11 @@
     
 }
 
+.categories {
+	float: left;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+}
 
 .home {
     margin-bottom: $spacing-unit / 2;
