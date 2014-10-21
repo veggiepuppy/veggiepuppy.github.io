@@ -8,7 +8,7 @@ tags: mushrooms, soup, appetizer
 
 This is a creamy and hearty soup, full of earthy mushroom flavor. The combination of dried porcinis and sauteed creminis makes this soup a complex and refined, perfect for entertaining. Use your preferred non-dairy milk, but we strongly suggest the unsweetened version. We suggest creminis and dried porcinis because they are widely found, but use whatever mushrooms you have available. The wilder the better!
 
-![mush]({{ site.baseurl }}/img/mushsoup.png)
+![Five star vegan cream of mushroom soup]({{ site.baseurl }}/img/mushsoup.png)
 
 ## Ingredients
 - 1 package dry porcini mushrooms
