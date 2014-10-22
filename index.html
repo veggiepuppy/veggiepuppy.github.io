@@ -9,7 +9,7 @@ layout: default
     
 <div class="featured">
 	<h2>Welcome!</h2>
-    <a class="hovertext" href="/about/" title="About us and this blog"><img src={{ site.baseurl }}/img/welcome.png width=420 height=420></a>
+    <a class="hovertext" href="/about/" title="About us and this blog"><img src={{ site.baseurl }}/img/welcome.png></a>
 </div>    
     
 <div class="posts">    
@@ -31,7 +31,7 @@ layout: default
 
 <div class="categories">
 	
-    <h1>Recipes</h1>
+    <h1 class="page-heading">Recipes</h1>
 
     <ul>
       {% for post in site.categories.recipes %}
@@ -45,7 +45,7 @@ layout: default
         </li>
       {% endfor %}
     </ul>
-    <h1>Beauty Tips</h1>
+    <h1 class="page-heading">Beauty Tips</h1>
 
     <ul>
       {% for post in site.categories.beauty %}

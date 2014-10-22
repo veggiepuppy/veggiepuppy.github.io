@@ -112,7 +112,7 @@ a {
 
 .featured > a.hovertext {
   position: relative;
-  width: 380px;
+  width: 100%;
   text-decoration: none !important;
   text-align: center;
 }
@@ -121,8 +121,9 @@ a {
   position: absolute;
   left: 0;
   bottom: 0;
-  padding: 0.5em 20px;
-  width: 380px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  width: 100%;
   background: rgba(0,0,0,0.8);
   text-decoration: none !important;
   color: #fff;
