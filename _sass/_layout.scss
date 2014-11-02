@@ -100,28 +100,25 @@
 
     @media (min-width: 600px) {
       .featured {
-        width: 63%;
+        width: 100%;
       }
-	  .posts {
-		  width: 32%;
+	  .categories {
+		  width: 100%;
 	  }
     }
 
     @media (min-width: 800px) {
       .categories {
-        width: 100%;
+        width: 28%;
       }
       .featured {
-        width: 63%;
+        width: 68%;
       }
-	  .posts {
-		  width: 32%;
-	  }
     }
 
     @media (min-width: 800px) {
       .home {
-        width: 740px;
+        width: 800px;
         margin-left: auto;
         margin-right: auto;
       }

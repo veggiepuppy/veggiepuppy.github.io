@@ -4,6 +4,8 @@ title:  "Five star vegan cream of mushroom soup"
 date:   2014-10-15 14:10:04
 categories: recipes
 tags: mushrooms, soup, appetizer
+photo: mushsoup
+teaser: The mushroom soup to impress all your friends. 
 ---
 
 This is a creamy and hearty soup, full of earthy mushroom flavor. The combination of dried porcinis and sauteed creminis makes this soup a complex and refined, perfect for entertaining. Use your preferred non-dairy milk, but we strongly suggest the unsweetened version. We suggest creminis and dried porcinis because they are widely found, but use whatever mushrooms you have available. The wilder the better!

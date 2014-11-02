@@ -4,6 +4,8 @@ title:  "The single best treatment for breakouts"
 date:   2014-10-05 14:10:04
 categories: beauty
 tags: face, skin, ice, cleaning
+photo: ice
+teaser: An ice cube a day keeps the breakouts away!
 ---
 
 You have an event in 2 weeks and your skin is looking dull and you have some break-outs. You could do the research to find a place that does vegan/cruelty-free facials/peels, get one, hope you react well and win if you do. If you are in Seattle you are in luck, because [Cassie's Skincare](http://www.cassiesskincare.com/) exists. It's the greatest ever skincare mecca, ask Lisa to use the [Bion line](http://bionresearch.com/): never tested on animals and works GREAT. All us other poor saps, could instead do the cheapest and easiest thing in the world and save a lot of time and money: ICE. 

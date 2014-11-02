@@ -4,6 +4,7 @@ title:  "Almond Coffee Creamer"
 date:   2014-10-30 20:24:04
 categories: recipes
 tags: almonds, milk, creamer, coffee
+photo: almondcream
 ---
 
 Raw, thick, creamy almonds. Slightly sweet and perfect for that morning cup of Joe. You'll need a powerful blender and a cheesecloth to make this at home, but it's worth it because there's nothing like it in the grocery store. When you are done, you'll have some leftover almond meal. Don't throw it out! We use it to make almond cheese, and even our own almond flour! Recipes coming soon. 

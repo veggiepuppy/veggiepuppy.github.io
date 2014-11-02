@@ -4,6 +4,7 @@ title:  "Winter Squash Soup"
 date:   2014-10-28 19:34:04
 categories: recipes
 tags: soup, squash, pumpkin, autumn
+photo: squashsoup
 ---
 
 Any winter squash will do, Acorn, pumpkin, butternut, delicata, whatever looks good. Gourds with thin skins can be left with the skin on. This makes a nice, simple, satisfying soup. It can be made quickly and in any quantity even with leftover cooked squash.

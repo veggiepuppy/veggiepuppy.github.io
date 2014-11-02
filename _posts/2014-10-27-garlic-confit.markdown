@@ -4,6 +4,7 @@ title:  "Garlic Confit"
 date:   2014-10-27 18:54:04
 categories: recipes
 tags: confit, garlic, flavoring, condiment
+photo: garlicconfit
 ---
 
 Garlic confit makes a delicious condiment or addition to any stew, pasta sauce, or sandwich. It is simply garlic slowly boiled in fat. We use a high quality olive oil which will also retain the garlic aroma. It is delicious by itself on a piece of toasted baguette, use the oil in a salad dressing, or drizzled on top of sauteed green beans. We do this in the oven to control the temperature and prevent burning the garlic. In about 1 hours time, you have enough for a couple weeks, maybe just one week because it's so good. 

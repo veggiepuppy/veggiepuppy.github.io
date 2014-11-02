@@ -4,6 +4,7 @@ title:  "Vegan Dark Hot Chocolate"
 date:   2014-10-22 19:09:04
 categories: recipes
 tags: chocolate, beverages, hot cocoa
+photo: cocoa
 ---
 
 Nothing perks me up like a nice hot cup of cocoa. This vegan version uses almond milk, cocoa powder, and dark chocolate, all unsweetened, so add your favorite sweetener to taste. For an extra kick, add a pinch of cayenne pepper and a shot of bourbon!

@@ -4,6 +4,8 @@ title:  "Vegan Breakfast Sandwiches"
 date:   2014-10-20 20:10:04
 categories: recipes
 tags: breakfast, sandwich, tofu
+photo: breakysando
+teaser: Start your day off right
 ---
 
 I love these sandwiches, its a great protein-packed and tasty way to start the day. Despite the appearance, these are low in fat and low in calories. We make up a big batch of these on the weekend and put them in the freezer. If you do that, be sure to keep the muffins and the cheese slices separate to prevent sogginess. Some day we will do a scratch version of these, but for now, we're enjoying them on a daily basis. Read the ingredients of your english muffins carefully, some contain whey, which comes from cow's milk. 

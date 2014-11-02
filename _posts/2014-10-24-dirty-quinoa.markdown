@@ -4,6 +4,7 @@ title:  "Dirty Quinoa with Collard Greens"
 date:   2014-10-24 18:44:04
 categories: recipes
 tags: stew, quinoa, hearty, greens
+photo: collards
 ---
 
 "Dirty" quinoa: a rich, satisfying, one-pot meal. The collard greens combined with the spices give this a deep, delightful flavor. Pink lentils and quinoa make this a protein-packed stew full of nutrition. Serve in warm bowls with your favorite [hot sauce](http://www.amazon.com/gp/product/B0081ZBDKW/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B0081ZBDKW&linkCode=as2&tag=veggpupp-20&linkId=ZCK4OIAOIZMKJMTC).
