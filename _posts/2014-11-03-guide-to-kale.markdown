@@ -7,7 +7,7 @@ tags: kale, guide, lacinato, greens
 photo: kalebunches
 ---
 
-Kale, we should all be eating more of it. But how? Forget about the tough, bland garnish on the side of your plate. Kale should be fresh, seasonal, bright, and satisfying. There are many different varieties that one can aquire, so what can you do with each kind?
+Kale, we should all be eating more of it. But how? Forget about the tough, bland garnish on the side of your plate. Kale should be fresh, seasonal, bright, and satisfying. There are many different varieties that one can aquire, so what to do with each kind?
 
 ![Kale, so many varieties, all so delicious in their own way.]({{ site.baseurl }}/img/kalebunches.png)
 
@@ -36,7 +36,7 @@ If you really want the kale to shine, braise it in a flavorful broth with onions
 
 1. Wash kale thoroughly to remove any sand or dirt. Remove kale from stems. Chop roughly.
 2. Peel, quarter and slice onion crosswise. 
-3. In a deep, heavt pot with a lid, bring oil to medium heat on the stove. Add onion with a pinch of salt. Sweat onion about 5-7 minutes until translucent. 
+3. In a deep, heavy pot with a lid, bring oil to medium heat on the stove. Add onion with a pinch of salt. Sweat onion about 5-7 minutes until translucent. 
 4. Increase heat to high. Add garlic and seasonings to pan.  Saute for 1 minute.
 5. Add liquid to pan and bring to a boil. Add kale and cover. Let braise for about 5 minutes. Kale should be tender but still be bright green when finished. Remove from heat. 
 6. Season with about 2 teaspoons white wine or rice vinegar. Serve immediately. 
