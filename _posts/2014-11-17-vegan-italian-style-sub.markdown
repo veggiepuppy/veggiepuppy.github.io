@@ -20,6 +20,7 @@ Who says vegan food has to be healthy? Here we create a vegan version of a class
 - [Any additional vegan deli slices of your choice](http://www.amazon.com/gp/product/B004A7AEA0/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B004A7AEA0&linkCode=as2&tag=veggpupp-20&linkId=DHAFJRBJKZNU56IH)
 - Roma tomatoes, sliced
 - Onion, thinly sliced
+- Pickled banana peppers or pepperoncini
 - 3-4 leaves [red russian kale]({{ site.baseurl }}/recipes/2014/11/03/guide-to-kale.html), washed and chopped
 - 1-2 teaspoons olive oil
 - 1 teaspoon red wine vinegar
